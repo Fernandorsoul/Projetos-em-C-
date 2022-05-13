@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/linuxlite/Área de Trabalho/projetos em c#/abstração rpg/abstração rpg.csproj": {}
+    "/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/abstração rpg.csproj": {}
   },
   "projects": {
-    "/home/linuxlite/Área de Trabalho/projetos em c#/abstração rpg/abstração rpg.csproj": {
+    "/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/abstração rpg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/linuxlite/Área de Trabalho/projetos em c#/abstração rpg/abstração rpg.csproj",
+        "projectUniqueName": "/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/abstração rpg.csproj",
         "projectName": "abstração rpg",
-        "projectPath": "/home/linuxlite/Área de Trabalho/projetos em c#/abstração rpg/abstração rpg.csproj",
+        "projectPath": "/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/abstração rpg.csproj",
         "packagesPath": "/home/linuxlite/.nuget/packages/",
-        "outputPath": "/home/linuxlite/Área de Trabalho/projetos em c#/abstração rpg/obj/",
+        "outputPath": "/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/linuxlite/.nuget/NuGet/NuGet.Config"
