@@ -15,12 +15,16 @@ namespace abstração_rpg.entities
         
         public string HeroType;
 
-        public override string ToString(){
-            return this.Name+" "+this.Level+" "+this.HeroType;
 
-         }
-         public virtual string Attack(){
-             return this.Name+ " atacou com a sua espada!";
+        public override string ToString(){
+            return this.Name +" "+ this.Level + " " + this.HeroType;
+        }
+
+      
+        public virtual string Attack(){
+             return this.Name+ " atacou com sua espada!";
+
+
          }
     }
 }

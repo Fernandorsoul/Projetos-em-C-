@@ -1,20 +1,17 @@
 namespace abstração_rpg.entities
 {
-    public class Wizard : Hero
-    {
+    public class Wizard:Hero{
 
-        public Wizard(string Name,int Level,string HeroType)
-        {
-
-            this.Name=Name;
-            this.Level=Level;
-            this.HeroType=HeroType;
-
-        }
+        public Wizard (string Name, int Level,string HeroType)
         
-          public override string Attack()
         {
-             return this.Name+" Lançou uma magia!";
+           this.Name=Name;
+           this.Level=Level;
+           this.HeroType=Name;  
         }
+       
+        public override string Attack(){
+            return this.Name + " Lançou uma magia!";
+         }
     }    
-} 
+}

@@ -28,18 +28,3 @@
 /home/linuxlite/Área de Trabalho/projetos em c#/abstração rpg/obj/Debug/net6.0/abstração rpg.pdb
 /home/linuxlite/Área de Trabalho/projetos em c#/abstração rpg/obj/Debug/net6.0/abstração rpg.genruntimeconfig.cache
 /home/linuxlite/Área de Trabalho/projetos em c#/abstração rpg/obj/Debug/net6.0/ref/abstração rpg.dll
-/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/obj/Debug/net6.0/abstração rpg.csproj.AssemblyReference.cache
-/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/obj/Debug/net6.0/abstração rpg.GeneratedMSBuildEditorConfig.editorconfig
-/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/obj/Debug/net6.0/abstração rpg.AssemblyInfoInputs.cache
-/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/obj/Debug/net6.0/abstração rpg.AssemblyInfo.cs
-/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/obj/Debug/net6.0/abstração rpg.csproj.CoreCompileInputs.cache
-/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/obj/Debug/net6.0/abstração rpg.dll
-/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/obj/Debug/net6.0/refint/abstração rpg.dll
-/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/obj/Debug/net6.0/abstração rpg.pdb
-/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/bin/Debug/net6.0/abstração rpg
-/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/bin/Debug/net6.0/abstração rpg.deps.json
-/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/bin/Debug/net6.0/abstração rpg.runtimeconfig.json
-/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/bin/Debug/net6.0/abstração rpg.dll
-/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/bin/Debug/net6.0/abstração rpg.pdb
-/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/obj/Debug/net6.0/abstração rpg.genruntimeconfig.cache
-/home/linuxlite/Área de Trabalho/projetos em c#/Projetos-em-C-/obj/Debug/net6.0/ref/abstração rpg.dll
